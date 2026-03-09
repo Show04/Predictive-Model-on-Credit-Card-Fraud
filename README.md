@@ -13,5 +13,5 @@ Data: Place the creditcard.csv file in the same directory as the notebook or upd
 Execution: Run all cells sequentially within the Google Colab environment. The notebook will perform data loading, preprocessing, model training, and evaluation automatically.
 
 # Note
-This Codebase was heavily referenced from Gabriel Preda's work, Credit Card Fraud Detection Predictive Models on Kaggle
+This Codebase was heavily referenced from Gabriel Preda's Credit Card Fraud Detection Predictive Models on Kaggle
 https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models
